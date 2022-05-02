@@ -1,0 +1,21 @@
+.search {
+    margin-top: 30px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.myparadise-button {
+    background-image: linear-gradient(to bottom right, red, yellow);
+    border: none;
+}
+
+.input {
+    border-width: 2px;
+    border-color: orange;
+    width: 25% !important;
+}
+
+.qty {
+    border-width: 1px;
+    border-color: orange;
+    width: 20% !important;
+}
